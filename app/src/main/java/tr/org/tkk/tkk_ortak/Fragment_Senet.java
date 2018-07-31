@@ -27,7 +27,7 @@ public class Fragment_Senet extends Fragment {
     FragmentActivity listener;
     private ProgressDialog pDialog;
     private ListView lv;
-    private static String url = "https://ekoop.tarimkredi.org.tr/rest/ortakTakip/ortakSenetDurumlari?ortak_no=1898&kurum_no=%27K070845%27";
+    private static String url = "";
     ArrayList<HashMap<String, String>> contactList;
 
     @Nullable
