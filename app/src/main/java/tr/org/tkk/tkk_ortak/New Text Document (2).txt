@@ -1,0 +1,6 @@
+HttpResponse 
+authentication
+response
+Sending http request | Post String data ( JSON ) | with authentication
+basic authentication
+basic HTTP authentication and headers
