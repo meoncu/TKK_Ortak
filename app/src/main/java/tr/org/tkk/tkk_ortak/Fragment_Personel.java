@@ -30,7 +30,7 @@ public class Fragment_Personel extends Fragment  {
     FragmentActivity listener;
     private ProgressDialog pDialog;
     private ListView lv;
-    private static String url = "https://ekoop.tarimkredi.org.tr/rest/personelRestServis/getPersonelBilgileri?kurumNo=K010018";
+    private static String url = "";
     ArrayList<HashMap<String, String>> contactList;
 
     @Nullable
