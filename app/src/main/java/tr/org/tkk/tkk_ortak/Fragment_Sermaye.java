@@ -27,7 +27,7 @@ public class Fragment_Sermaye extends Fragment {
     FragmentActivity listener;
     private ProgressDialog pDialog;
     private ListView lv;
-    private static String url = "https://ekoop.tarimkredi.org.tr/rest/ortakTakip/ortakSermayeBilgisi?ortakId=3399761";
+    private static String url = "";
     ArrayList<HashMap<String, String>> contactList;
 
     @Nullable
