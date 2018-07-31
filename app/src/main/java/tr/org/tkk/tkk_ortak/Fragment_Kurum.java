@@ -26,7 +26,7 @@ public class Fragment_Kurum extends Fragment{    private String TAG = MainActivi
     FragmentActivity listener;
     private ProgressDialog pDialog;
     private ListView lv;
-    private static String url = "https://ekoop.tarimkredi.org.tr/rest/ekoopWebServisUtils/kurumBilgileriRestServis?kurumNo=K010852";
+    private static String url = "";
     ArrayList<HashMap<String, String>> contactList;
 
     @Nullable
