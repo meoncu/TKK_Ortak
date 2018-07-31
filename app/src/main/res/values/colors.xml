@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#38ada3</color>
+    <color name="colorPrimaryDark">#008577</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDark">#1d1b1c</color>
+    <color name="Toolbar2">#006f64</color>
+    <color name="Toolbar2_adsoyad">#ccff33</color>
+    <color name="yilay">#142745</color>
+    <color name="anasayfa_text_title">#46c92c</color>
+
+    <color name="circle_pink">#ff4081</color>
+    <color name="circle_purple">#743cb4</color>
+    <color name="circle_yellow">#ffc107</color>
+    <color name="circle_green">#33691e</color>
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_anasayfa"
+            android:icon="@drawable/ic_home"
+            android:title="Anasayfa" />
+        <item
+            android:id="@+id/nav_personel"
+            android:icon="@drawable/ic_personel"
+            android:title="Personel" />
+        <item
+            android:id="@+id/nav_kurum"
+            android:icon="@drawable/ic_kurum"
+            android:title="Kurum Bilgileri" />
+        <item
+            android:id="@+id/nav_sermaye"
+            android:icon="@drawable/ic_sermaye"
+            android:title="Sermaye" />
+        <item
+            android:id="@+id/nav_alisveris"
+            android:icon="@drawable/ic_alisveris"
+            android:title="Alışveriş" />
+        <item
+            android:id="@+id/nav_kefil"
+            android:icon="@drawable/ic_kefil"
+            android:title="Kefil Bilgileri" />
+        <item
+            android:id="@+id/nav_senet"
+            android:icon="@drawable/ic_senet"
+            android:title="Senet Bilgileri" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Soru sor" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="İletişim" />
+        </menu>
+    </item>
+
+</menu>
