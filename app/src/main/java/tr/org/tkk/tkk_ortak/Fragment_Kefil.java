@@ -27,7 +27,7 @@ public class Fragment_Kefil extends Fragment {
     FragmentActivity listener;
     private ProgressDialog pDialog;
     private ListView lv;
-    private static String url = "https://ekoop.tarimkredi.org.tr/rest/ortakTakip/ortakKefilSozlesmeBilgi?ortakId=1057704 ";
+    private static String url = "";
     ArrayList<HashMap<String, String>> contactList;
 
     @Nullable
