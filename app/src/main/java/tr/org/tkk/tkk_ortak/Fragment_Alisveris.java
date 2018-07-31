@@ -27,7 +27,7 @@ public class Fragment_Alisveris extends Fragment {
     FragmentActivity listener;
     private ProgressDialog pDialog;
     private ListView lv;
-    private static String url = "https://ekoop.tarimkredi.org.tr/rest/ortakTakip/ortakAlisverisBilgisi?ortakId=3458196&kurumId=2418&yil=2017";
+    private static String url = "";
     ArrayList<HashMap<String, String>> contactList;
 
     @Nullable
